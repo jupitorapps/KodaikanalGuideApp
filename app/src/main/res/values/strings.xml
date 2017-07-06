@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kodaikanal Guide</string>
+    <string name="menuThingsToKnow">Things To Know</string>
+    <string name="menuGettingThere">Getting There</string>
+    <string name="menuMajorAttractions">Major Attractions</string>
+    <string name="menuRestaurants">Top Restaurants</string>
+
+
+</resources>
