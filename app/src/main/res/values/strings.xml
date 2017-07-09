@@ -5,5 +5,75 @@
     <string name="menuMajorAttractions">Major Attractions</string>
     <string name="menuRestaurants">Top Restaurants</string>
 
+    <string name="gettingTherebyBus">By Bus</string>
+    <string name="gettingThereByBusDetails">Regular bus services are available
+                 from the cities of Chennai, Coimbatore, Pondicherry, Madurai, Trichy and many more.</string>
+    <string name="gettingThereByTrain">By Train</string>
+    <string name="gettingThereByTrainDetails">Many tourists take the rail route and get down at Kodai Road, which
+                 is about 100 kilometres away from the main town. From here,
+                you can get a taxi. Being the only mode of transportation from
+                Kodai Road to Kodaikanal, taxi rates are not all that negotiable.</string>
+    <string name="gettingThereByAir">By Air</string>
+    <string name="gettingThereByAirDetails">The airport nearest to Kodaikanal is Madurai, about 120 kilometres
+                away. Others in line include the Trichy airport and the Coimbatore airport,
+                150 kilometres and 175 kilometres away, respectively. From the airport,
+                you can easily get a bus to Kodaikanal.</string>
+    <string name="gettingThereBySelfDrive">Road/Self Drive</string>
+    <string name="gettingThereBySelfDriveDetails">Kodaikanal is easily accessible by road from Chennai
+                (439 kilometres) and Bangalore (305 kilometres). It is only about 3.5
+                hours away from Madurai. But if you decide to drive just make sure
+                 our fuel tank is full because there are very limited gas stations on the way.</string>
+
+    <string name="thingsToKnow1">Reconfirm with your hotel directly calling at Hotel, if you have
+                booked online.</string>
+    <string name="thingsToKnow2">If you are driving, make sure you have sufficient fuel when you
+                leave Dindigul, because after that , it is difficult to get fuel. You need to climb hill of
+                50km, hill climbing may use double the fuel. Make sure you have full tank. Also take some food
+                with you if you have babies or you may get hungry. It will take nearly 2 hours to climb the hill. </string>
+    <string name="thingsToKnow3">Download google map for offline navigation. Download place
+                details also because at some places you may not get sufficient network or internet </string>
+    <string name="thingsToKnow4">Public tranport is not good or mostly not available in Kodaikanal.
+                You have to make your taxi or join some tourist group via a tour agent. You hotel can do that
+                for you"</string>
+    <string name="thingsToKnow5">If you are foreigner, keep your passport safe. Mostly, nobody will ask for passport unless
+        something wrong happens. Show it only to police personnel. Crime is very less in
+                 Kodaikanal but it is better to be safe</string>
+    <string name="thingsToKnow6">Self driven cars are not available in Kodaikanal. If you wish a
+                 self driven car, take it from Chennai and drive to Kodaikanal. You can take it from
+                 ZoomCar, book from their website or App</string>
+    <string name="priorityMust">Must</string>
+    <string name="prioritySure">Sure</string>
+    <string name="restaurantAltafsCafeName">Altafs Cafe</string>
+    <string name="restaurantAltafsCafeDetails">A restaurant dealing mainly in Indian and Middle
+                 Eastern cuisines for the hungry and tired travelers of Kodaikanal.</string>
+    <string name="restaurantPastryCorner">Pastry Corner</string>
+    <string name="restaurantPastryCornerDetails">Pick up great picnic sandwiches and yummy muffins
+                 and croissants at this highly popular bakery, or squeeze onto the benches with
+                a cup to watch the world go by.</string>
+    <string name="restaurantAstoria">Hotel Astoria</string>
+    <string name="restaurantAstoriaDetails">Crowded with tourists and locals, Astoria is almost
+                 impossible to get through during the lunch hours when it serves the
+                all-you-can-eat thalis.</string>
+    <string name="restaurantPatel">Patel Restaurant</string>
+    <string name="restaurantPatelRestaurantDetails">If you are a Gujarati lusting after excellent
+                dishes from your cuisine, Patels is the place to be.</string>
+    <string name="attraction1Name">Kodaikanal Lake</string>
+    <string name="attraction1Details">Kodai Lake that lays in the heart of Kodaikanal, is a star shaped man made lake
+                 that is draped on an area of 60 acres. Boating, horse riding, cycling and angling are a few of the
+        adventure activities tourists can appease themselves with, near the lake.</string>
+    <string name="attraction2Name">Green Valley View (Suicide Point)</string>
+    <string name="attraction2Details">As the name suggest, it offers tourists with amazing view of the plains,
+                valleys and hills. Breath taking view of the Vaigai dam makes for an experience worth remembering.
+        The green valley View is formerly called as Suicide Point. It received its name because of the dangerous
+        valley which is deep and dense. The valley below the point is more than 5000 feet drop. </string>
+    <string name="attraction3Name">Pillar Rocks</string>
+    <string name="attraction3Details">The famous Pillars Rocks of Kodaikanal are located around 8 km from the lake
+        and are an exquisite picnic spot. Constituting of a beautiful mini garden, the place is so named as it has
+        three vertically positioned boulders reaching up to a height of 400 feet.</string>
+    <string name="attraction4Name">Berijam Lake</string>
+    <string name="attraction4Details">An important hill station in not just Tamil Nadu but the whole of India,
+                Kodaikanal offers an assortment of picnic spots inclusive of the magnificent
+                Berijam Lake.</string>
+
 
 </resources>

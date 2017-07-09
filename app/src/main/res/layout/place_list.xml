@@ -14,15 +14,16 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="bottom"
-        tools:text="Must"/>
+        tools:text="Must" />
 
     <TextView
         android:id="@+id/subject"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textSize="24sp"
         android:gravity="top"
-        tools:text="Take umbrella"/>
+        android:textSize="24sp"
+        tools:text="Take umbrella" />
+
     <ImageView
         android:id="@+id/itemThumbnail"
         android:layout_width="match_parent"
@@ -32,19 +33,14 @@
         android:id="@+id/placeName"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        tools:text="Kodaikanal"
-        android:textSize="32sp" />
+        android:textSize="32sp"
+        tools:text="Kodaikanal" />
 
     <TextView
         android:id="@+id/placeDescription"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        tools:text="Kodaiakna is a great place"
-        android:textSize="16sp" />
-
-
-
-
-
+        android:textSize="16sp"
+        tools:text="Kodaiakna is a great place" />
 
 </LinearLayout>

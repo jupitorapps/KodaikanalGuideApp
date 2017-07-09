@@ -12,7 +12,6 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 
-
 public class PlaceAdapter extends ArrayAdapter {
 
     public PlaceAdapter(Activity context, ArrayList<Place> places) {
@@ -25,10 +24,9 @@ public class PlaceAdapter extends ArrayAdapter {
             listItemView = LayoutInflater.from(getContext()).inflate(R.layout.place_list, parent, false);
         }
 
-
         final Place currentPlace = (Place) getItem(position);
         assert currentPlace != null;
-        if (currentPlace.hasImage()){
+        if (currentPlace.hasImage()) {
 
             ImageView imageView = listItemView.findViewById(R.id.itemThumbnail);
             imageView.setImageResource(currentPlace.getmImageResourceId());
@@ -40,7 +38,6 @@ public class PlaceAdapter extends ArrayAdapter {
             subjectView.setVisibility(View.GONE);
             TextView importanceView = listItemView.findViewById(R.id.importance);
             importanceView.setVisibility(View.GONE);
-
 
         } else {
             //final Place currentPlace = (Place) getItem(position);
@@ -56,14 +53,8 @@ public class PlaceAdapter extends ArrayAdapter {
             placeNameView.setVisibility(View.GONE);
             TextView placeDescriptionView = listItemView.findViewById(R.id.placeDescription);
             placeDescriptionView.setVisibility(View.GONE);
-
         }
-
 
         return listItemView;
     }
-
-
 }
-
-

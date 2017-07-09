@@ -3,22 +3,25 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
     android:background="@drawable/kodai"
+    android:orientation="vertical"
     tools:context="com.example.lenovo.first.kodaiguide.MainActivity">
 
     <TextView
         android:id="@+id/thingsToKnow"
         style="@style/menuStyle"
         android:text="@string/menuThingsToKnow" />
+
     <TextView
         android:id="@+id/gettingThere"
         style="@style/menuStyle"
         android:text="@string/menuGettingThere" />
+
     <TextView
         android:id="@+id/majorAttractions"
         style="@style/menuStyle"
         android:text="@string/menuMajorAttractions" />
+
     <TextView
         android:id="@+id/restaurants"
         style="@style/menuStyle"
