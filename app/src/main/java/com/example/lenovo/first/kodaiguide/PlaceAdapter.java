@@ -1,6 +1,8 @@
 package com.example.lenovo.first.kodaiguide;
 
 import android.app.Activity;
+import android.support.v4.content.ContextCompat;
+import android.util.TypedValue;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -46,7 +48,8 @@ public class PlaceAdapter extends ArrayAdapter {
             subjectView.setText(currentPlace.getmSubject());
             TextView importanceView = listItemView.findViewById(R.id.importance);
             importanceView.setText(currentPlace.getmImportance());
-            importanceView.setTextColor(currentPlace.getmImportanceColorResourceId());
+            importanceView.setTextColor(ContextCompat.getColor(getContext(), currentPlace.getmImportanceColorResourceId()));
+            importanceView.setTextSize(TypedValue.COMPLEX_UNIT_SP, 16);
             ImageView imageView = listItemView.findViewById(R.id.itemThumbnail);
             imageView.setVisibility(View.GONE);
             TextView placeNameView = listItemView.findViewById(R.id.placeName);
@@ -59,6 +62,8 @@ public class PlaceAdapter extends ArrayAdapter {
 
         return listItemView;
     }
+
+
 }
 
 
